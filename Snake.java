@@ -7,7 +7,7 @@ public class Snake extends JFrame implements Runnable
 {
 	public Snake()
 	{
-		super("Snake");
+		super("Snake 1");
 	}
 	public void run()
 	{
